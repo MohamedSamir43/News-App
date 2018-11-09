@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_posts_yet">No News at momement</string>
+    <string name="API_RESPONSE_ARRAY_KEY">results</string>
+    <string name="API_SECTION_NAME_KEY">sectionName</string>
+    <string name="API_TITLE_KEY">webTitle</string>
+    <string name="API_PUBLISH_DATE_KEY">webPublicationDate</string>
+    <string name="API_URL_NAME_KEY">webUrl</string>
+    <string name="API_BIO_TAG">bio</string>
+    <string name="empty_string"></string>
+    <string name="API_FIRST_NAME_KEY">firstName</string>
+    <string name="API_LAST_NAME_KEY">lastName</string>
+    <string name="API_RESPONSE_KEY">response</string>
+    <string name="API_TAGS_KEY">tags</string>
+    <string name="connectionError">Please Check your network connection</string>
+</resources>
